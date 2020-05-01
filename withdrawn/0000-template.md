@@ -6,4 +6,4 @@
 
 ## Relevant Resources
 
-{{Optional section to link relevant resources and discussions relevant to this RFCs withdrawal}}
+{{Optional section to reference resources and discussions relevant to this RFCs withdrawal}}
